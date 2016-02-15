@@ -3,31 +3,19 @@
 	{
 		"selected_items":
 		[
+			[
+				"ve",
+				"vehicles"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "app/Http/routes.php",
+			"file": "/D/angular test/w3schools/10 angular Services/test 2_http.html",
 			"settings":
 			{
-				"buffer_size": 841,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/VehicleController.php",
-			"settings":
-			{
-				"buffer_size": 90,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/MakerController.php",
-			"settings":
-			{
-				"buffer_size": 85,
+				"buffer_size": 459,
 				"line_ending": "Windows"
 			}
 		}
@@ -71,33 +59,28 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/D/xampp/htdocs/MyOwnAPI",
-		"/D/xampp/htdocs/MyOwnAPI/app",
-		"/D/xampp/htdocs/MyOwnAPI/app/Http",
-		"/D/xampp/htdocs/MyOwnAPI/app/Http/Controllers",
-		"/D/xampp/htdocs/MyOwnAPI/app/Http/Controllers/Auth",
-		"/D/xampp/htdocs/MyOwnAPI/database",
-		"/D/xampp/htdocs/MyOwnAPI/database/seeds",
-		"/D/xampp/htdocs/MyOwnAPI/resources/views"
-	],
 	"file_history":
 	[
+		"/D/angular test/w3schools/10 angular Services/test 1_service.html",
+		"/D/xampp/htdocs/MyOwnAPI/app/Http/Controllers/MakerController.php",
+		"/C/Users/User/Downloads/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
 		"/D/xampp/htdocs/MyOwnAPI/app/Http/Controllers/MakerVehiclesController.php",
+		"/D/xampp/htdocs/MyOwnAPI/app/Vehicle.php",
+		"/D/xampp/htdocs/MyOwnAPI/app/Http/Controllers/VehicleController.php",
+		"/C/Users/User/Downloads/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/User/Downloads/Sublime Text Build 3083 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/xampp/htdocs/MyOwnAPI/app/Http/routes.php",
 		"/D/xampp/htdocs/MyOwnAPI/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
 		"/D/xampp/htdocs/MyOwnAPI/database/seeds/MakerSeed.php",
 		"/D/xampp/htdocs/MyOwnAPI/database/seeds/VehiclesSeed.php",
 		"/D/xampp/htdocs/MyOwnAPI/database/seeds/DatabaseSeeder.php",
 		"/D/xampp/htdocs/MyOwnAPI/.env",
-		"/D/xampp/htdocs/MyOwnAPI/app/Vehicle.php",
 		"/D/xampp/htdocs/MyOwnAPI/app/Http/Controllers/MyController.php",
 		"/D/xampp/htdocs/MyOwnAPI/app/MyModel.php",
 		"/D/xampp/htdocs/MyOwnAPI/app/Maker.php",
 		"/D/xampp/htdocs/MyOwnAPI/database/migrations/2016_02_06_173722_vehicles_table.php",
 		"/D/xampp/htdocs/MyOwnAPI/database/migrations/2016_02_06_173603_makers_table.php",
 		"/D/xampp/htdocs/MyOwnAPI/resources/views/hi.blade.php",
-		"/D/xampp/htdocs/MyOwnAPI/app/Http/routes.php",
 		"/D/xampp/htdocs/MyOwnAPI/resources/views/app.blade.php",
 		"/D/xampp/htdocs/MyOwnAPI/MyOwnAPI.sublime-project",
 		"/D/xampp/htdocs/MyOwnAPI/public/index.html"
@@ -141,93 +124,32 @@
 			[
 				{
 					"buffer": 0,
-					"file": "app/Http/routes.php",
+					"file": "/D/angular test/w3schools/10 angular Services/test 2_http.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 841,
+						"buffer_size": 459,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								820,
-								820
+								331,
+								331
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 216.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/Http/Controllers/VehicleController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 90,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								90
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/Http/Controllers/MakerController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 85,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								50,
-								50
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -314,7 +236,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 220.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
